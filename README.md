@@ -19,4 +19,5 @@
 ---
 
 ## 📫 Connect With Me 
-- [Telegram](https://t.me/AHM1391) 
+- [Telegram](https://t.me/AHM1391)
+- [Linkedin](www.linkedin.com/in/ahm1391)
