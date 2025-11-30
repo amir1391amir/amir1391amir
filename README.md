@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Amirhossein 👋
 
-<!--
-**amir1391amir/amir1391amir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Senior Web Developer @ Microsoft**  
+🔧 **Network & Datacenter Engineer**  
+🎨 **UI/UX-Focused Designer 
+---
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Web Development**: HTML, CSS, JavaScript, React, Node.js  
+- **Networking**: Datacenter design, troubleshooting, automation  
+- **Design**: UI/UX principles, digital art, fantasy illustration  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Fun Facts
+- I love blending **art + code** into creative projects  
+- I thrive on **edge-case troubleshooting** and **passing all tests**  
+- My motto: *Keep it simple, make it teachable* ✨  
+
+---
+
+## 📫 Connect With Me 
+- [Telegram](https://t.me/AHM1391) 
